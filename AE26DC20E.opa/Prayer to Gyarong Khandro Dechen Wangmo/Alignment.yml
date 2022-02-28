@@ -1,0 +1,28 @@
+segment_sources:
+  PC148DE1E:
+    type: origin_type
+    relation: translation
+    language: en
+  P1DBA4B1B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cfa2845ebc224abea0006072e8273e7c:
+    PC148DE1E: f2c06da2d28146b28569993ef1221f21
+    P1DBA4B1B: 387a66e9148349fe9dba425f67ca3d0d
+  a0a1e88a7c5841dc8b98656ce9029700:
+    PC148DE1E: d9f0c52bbfb4409c8c5128edb057c9d1
+    P1DBA4B1B: 1d15fa1372a241a0865d3cf0bd860c6a
+  5e268bfa6c7f4dd69ceb93fe7f5e4ea7:
+    PC148DE1E: a90b1e82bdd24cb68739ef0b50e37512
+    P1DBA4B1B: a8482f1323da4dbbb926dbd4870cc1b4
+  9be517e8f9594d5488384ca7dbb384bf:
+    PC148DE1E: 7d93d8a9b553401daf5c76f5d8f29209
+    P1DBA4B1B: fe2150624558474bbfa9b6f2851e18e8
+  a9817b2a7ea94b348b838d331b0a6484:
+    PC148DE1E: 0dc2821e41b24beab5d29852ec010604
+    P1DBA4B1B: e83e1ea63cb247eb87cdfd07c6dfa212
+  d5fe1537881b42c688294fa9984a230e:
+    PC148DE1E: 96f71321b94742b3987476fa4f3e0c2f
+    P1DBA4B1B: b97b0b20c66045c98e51a2d3a0654df2
